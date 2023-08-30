@@ -1,0 +1,1 @@
+# Sentiment-Analysis-of-Ted-Talk-by-Tierney-Thys-and-David-S.-Rose
