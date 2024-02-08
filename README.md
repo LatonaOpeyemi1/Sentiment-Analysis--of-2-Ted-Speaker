@@ -1,4 +1,4 @@
-# Sentiment-Analysis-of-Ted-Talk-by-Tierney-Thys-and-David-S.-Rose
+# Sentiment Analysis of Ted Talk by Tierney Thys and David S.Rose
 TED Talk Text Analysis: David S. Rose and Tierney Thys
 ## Introduction
 This work delves into the fascinating realm of text analysis by examining the TED talks of two distinct speakers: David S. Rose and Tierney Thys. David S. Rose, a business pitch expert, imparts insights into effective pitching for startups, emphasizing clarity, conciseness, and numerical understanding. On the other hand, Tierney Thys, a Marine Biologist, discusses the enchanting world of giant sunfish and advocates for ocean biodiversity protection. The analysis focuses on their spoken words, aiming to uncover relationships and insights using various analytical methods in R.
